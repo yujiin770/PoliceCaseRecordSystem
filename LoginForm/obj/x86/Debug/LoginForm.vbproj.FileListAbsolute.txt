@@ -1,0 +1,13 @@
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\LoginForm\LoginForm\bin\Debug\Guna.UI.dll
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\LoginForm\LoginForm\obj\x86\Debug\LoginForm.Resources.resources
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\LoginForm\LoginForm\obj\x86\Debug\LoginForm.vbproj.GenerateResource.Cache
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\LoginForm\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\LoginForm\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\LoginForm\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\LoginForm\LoginForm\bin\Debug\Guna.UI2.dll
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\LoginForm\LoginForm\obj\x86\Debug\LoginForm.background.resources
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\LoginForm\LoginForm\obj\x86\Debug\LoginForm.SplashScreen.resources
+C:\Users\Ellaine-SPP\Documents\Visual Studio 2010\Projects\LoginForm\LoginForm\obj\x86\Debug\LoginForm.LoginForm.resources
