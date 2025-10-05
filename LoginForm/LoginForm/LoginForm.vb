@@ -143,7 +143,7 @@ Public Class LoginForm
         ' This simply informs the user what to do.
         ' A more advanced system might send an email, but this is a secure, manual approach.
         MsgBox("To reset your password, please contact an Administrator.",
-               MsgBoxStyle.Information, "Password Reset Succesfully")
+               MsgBoxStyle.Information, "Password Reset Succesfully 2")
     End Sub
 
     Private Sub Guna2ControlBox1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
